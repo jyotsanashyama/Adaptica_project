@@ -1,6 +1,6 @@
 # Adaptica_project
 
-An adaptive learning platform! In order to stay motivated for learning, it is very much important to first figure out why are you learning this and are you on the right path? At Adaptica, through interesting interations with AI chatbots, students can learn important and powerful skills with fun! Students can use chatbots for personalized courses and practical project ideas, and can give AI generated quizzes for discount on courses
+An adaptive learning platform! In order to stay motivated for learning, it is very much important to first figure out why are you learning this and are you on the right path? At Adaptica, through interesting interactions with AI chatbots, students can learn important and powerful skills with fun! Students can use chatbots for personalized courses and practical project ideas, and can give AI generated quizzes for discount on courses
 
 ## Functions:
 
@@ -16,3 +16,5 @@ Core Technologies: Reinforcement learning, natural language processing and under
 
 ## Contribution
 Feel free to contribute by moving the code, adding features, fixing bugs.
+
+
