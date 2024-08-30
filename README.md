@@ -8,6 +8,8 @@ The main page includes all the important informations about the courses availabl
 
 Students are provided with the quiz option so that they can get discount offers on courses according to their scores.
 
+Students can contact us from the "Contact us" option on the navbar. The information about the students will send to the team's email address. This is created using Ajax.
+
 ## Technologies used:
 
 Front-End: HTML, CSS, JavaScript. Back-End: Python with Django or Flask or Node js.
