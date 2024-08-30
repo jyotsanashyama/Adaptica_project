@@ -21,7 +21,7 @@ if st.button('Let me think!'):
 if st.button('AI Pal'):
    
    
-        chatbot_link = "https://your_chatbot_url"  # Replace with your actual chatbot URL
+        chatbot_link = "https://adapticachatbot123.streamlit.app/"  # Replace with your actual chatbot URL
         st.button("Hey! My Friendo", on_click=lambda: st.sidebar.open(chatbot_link))
     
        
